@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_dp/providers/user_places.dart';
+import 'package:flutter_native/providers/user_places.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class AddPlaceScreen extends ConsumerStatefulWidget {

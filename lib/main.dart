@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_dp/screens/places.dart';
+import 'package:flutter_native/screens/places.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 

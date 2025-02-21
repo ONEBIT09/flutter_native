@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_dp/models/place.dart';
-import 'package:flutter_dp/screens/place_detail.dart';
+import 'package:flutter_native/models/place.dart';
+import 'package:flutter_native/screens/place_detail.dart';
 
 class PlacesList extends StatelessWidget {
   const PlacesList({super.key, required this.places});

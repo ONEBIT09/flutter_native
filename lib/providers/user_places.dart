@@ -1,4 +1,4 @@
-import 'package:flutter_dp/models/place.dart';
+import 'package:flutter_native/models/place.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class UserPlacesNotifier extends StateNotifier<List<Place>> {
